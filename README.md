@@ -10,7 +10,8 @@ This project presents an end-to-end **data analytics and reporting solution** fo
 - 🧹 Cleaned, transformed, and loaded the data into **Amazon Redshift**
 - 🔁 Implemented **incremental data refresh** to update insights weekly
 - 📊 Developed an **interactive Power BI dashboard** with dynamic filters, DAX measures, and drill-through capabilities
-
+![Dashboard Preview](images/BVSC_analysis.png)
+![Dashboard Preview](images/Detailed_analysis.png)
 ---
 
 ## 🏗️ Data Engineering Pipeline (ETL)
