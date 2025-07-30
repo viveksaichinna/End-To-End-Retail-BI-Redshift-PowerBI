@@ -78,7 +78,9 @@ All measures follow **best practices** in DAX for performance and reusability.
 - 🧠 Smart **tooltips** with additional metrics
 - 🔗 Page-level and report-level filters
 - 🧩 Optimized for both Import and DirectQuery modes
-
+![Dashboard Preview](images/filter_area.png)
+![Dashboard Preview](images/drill_through.png)
+![Dashboard Preview](images/filtered_records.png)
 ---
 
 ## 📂 Repository Structure
